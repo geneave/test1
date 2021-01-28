@@ -9,3 +9,7 @@ This is the third commit
 那么这次能不能把整个文件夹都交上去呢？
 咦，竟然不是文件夹交上去了
 试试在hello-world后面加/呢？
+我在GitHub第12行加一点东西
+
+再在GitHub第14行上加点东西
+看看如何push
